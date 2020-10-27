@@ -1,6 +1,6 @@
 # seic-38 warmups
 
-Collection of warmups completed during the seic38 General Assembly course.
+Collection of warmups from the seic38 General Assembly course.
 
 ## Gist Links
 
