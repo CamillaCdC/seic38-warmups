@@ -10,6 +10,8 @@ Repeat the process indefinitely.
 ```
 The conjecture is that no matter what number you start with, you will always eventually reach 1.
 
+Your aim to create a function that will count how many times it takes for a particular number to reach 1. 
+
 ## Task
 Write a program that given a number, verifies this conjecture for all positive numbers greater than one. Ideally your program will output when it has completed, how many cycles it ran for and all the steps it took to reach the end.
 
