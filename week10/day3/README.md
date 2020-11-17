@@ -18,3 +18,5 @@ You should define a Calculator class which uses the constructor function (initia
 Use a regular expression to parse the question.
 
 **HINT**: You will probably want to use Ruby's match method, and in particular a [capture](https://code.tutsplus.com/tutorials/ruby-for-newbies-regular-expressions--net-19812) group which uses parentheses in the regex, and returns a MatchData array.
+
+[This site](https://regexr.com/3cr6f) might also be helpful.
